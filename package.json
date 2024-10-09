@@ -1,6 +1,5 @@
 {
-	"name": "arctic",
-	"type": "module",
+	"name": "arctic-cjs",
 	"version": "1.9.2",
 	"description": "OAuth 2.0 clients for popular providers",
 	"main": "dist/index.js",
